@@ -1,0 +1,1 @@
+Um jogo da velha desenvolvido em C e jogado atravez do terminal. O tabuleiro e as condições de vitória foram desenvolvidos sem o uso de laços propositalmente a fim de entender os conceitos básicos da linguagem.
